@@ -1,0 +1,35 @@
+body
+{
+    background-image: repeating-linear-gradient(pink, rgb(179, 130, 179), violet, purple, indigo, blue, skyblue);
+} 
+
+pre
+{
+  color: springgreen;
+  background-color: orchid;
+  width: 759;
+}
+h2
+{
+    color: rgb(99, 151, 219);
+}
+#footer
+{
+    position: fixed;
+    left:0;
+    bottom: 0;
+    width: 100%;
+    background-color: sandybrown;
+    color: sienna;
+    text-align: center;
+}    
+
+canvas
+{
+    border: black;
+    border-width: 50;
+    border-style: ridge;
+    width: 90px;
+    height: 108px;
+    box-shadow: plum 40 80;
+}
